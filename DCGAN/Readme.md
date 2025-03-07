@@ -4,7 +4,7 @@
 This experiment focuses on implementing a Deep Convolutional Generative Adversarial Network (DCGAN) to generate realistic human faces using the CELEBA dataset. The model consists of a generator and a discriminator, both trained using PyTorch.  
 
 ##**DCGAN Architecture**
-![Architecture](DCGAN Architecture.png)  
+![Architecture](architecture.png)  
 
 ## **Dataset Preprocessing Steps**  
 1. **Download the Dataset**: Retrieve the CELEBA dataset from Kaggle.  
