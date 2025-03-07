@@ -1,7 +1,3 @@
-Here’s a rephrased version of your README.md with the required details for your experiment:  
-
----
-
 # **DCGAN for Face Generation using the CELEBA Dataset**  
 
 ## **Introduction**  
@@ -75,9 +71,3 @@ This experiment focuses on implementing a Deep Convolutional Generative Adversar
 
 ## **Conclusion**  
 This experiment successfully demonstrates how DCGANs can generate human-like face images from random noise using the CELEBA dataset. With sufficient training, the generator learns to produce highly realistic facial features.  
-
-**Feel free to extend this project by experimenting with different architectures, hyperparameters, and datasets!**  
-
----
-
-This README is structured for clarity and ease of use, ensuring proper documentation for your experiment. Let me know if you need any modifications! 🚀
